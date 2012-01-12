@@ -1,0 +1,3 @@
+Tail Recursion
+
+Just require recurse.coffee and then call recurse with the initial input and a function that returns the next input and an accumulator in a array or the final value.
